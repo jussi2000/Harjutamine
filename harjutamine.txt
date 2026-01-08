@@ -1,0 +1,1 @@
+GitHub on veebipõhine platvorm koodi hoiustamiseks ja ühiseks arendamiseks, mis salvestab kõik tarkvaras tehtud muudatused. Seda kasutavad programmeerijad, ettevõtted ja õpilased, et hallata oma projekte ning teha üleilmset koostööd.
